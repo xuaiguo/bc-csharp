@@ -1,9 +1,7 @@
 using System;
 using System.Collections;
 using System.IO;
-
 using NUnit.Framework;
-
 using Org.BouncyCastle.Asn1.X509;
 using Org.BouncyCastle.Math;
 using Org.BouncyCastle.Utilities.Date;
